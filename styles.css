@@ -3,3 +3,7 @@
     height:20rem ;
     object-fit: cover;
 }
+
+.btn btn-primary my-2 {
+    color: #5271ff;
+}
